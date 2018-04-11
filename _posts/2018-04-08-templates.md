@@ -2,7 +2,6 @@
 layout: post
 title:  "Templates"
 date:   2018-04-08
-permalink: /templates/
 ---
 
 Used to create page in AEM. It defines structure content and components that can be used on page. 

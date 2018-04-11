@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Design Dialog and Overlays"
-permalink: /components2/
 ---
 Design Dialog provide design configurations of the component. Accessible only in design mode. Not in editable mode. 
 <br>

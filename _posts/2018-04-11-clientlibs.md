@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Clientlibs"
-permalink: /clientlibs/
 ---
 <img src="{{ site.baseurl }}/assets/img/cl1.png"/><br><br>
 

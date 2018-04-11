@@ -2,7 +2,6 @@
 layout: post
 title:  "Introduction to AEM"
 date:   2018-04-08 12:07:16 +0530
-permalink: /intro/
 ---
 `AEM` page is instance of template and template decides which component are allowed within template.To create any page you have to
 create template first. In  `resourceType` you can give the allowed component path. Once the template is created you need to check 

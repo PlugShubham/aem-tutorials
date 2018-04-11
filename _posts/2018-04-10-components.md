@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Components"
-permalink: /components/
 ---
 
 Components are re-usable modules that implement specific application logic to render the content of your web site. You can think of a component as a collection of scripts (for example, JSPs, Java servlets, and so on) that completely realize a specific function. In order to realize this functionality, it is your responsibility as a CQ developer to create scripts that perform specific functionality. For more information about components, see Components.

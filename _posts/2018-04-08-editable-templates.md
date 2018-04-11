@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Editable Templates"
-permalink: /etemplates/
 ---
 
 Editable templates allow authors to create components using drag and drop and from other compoents

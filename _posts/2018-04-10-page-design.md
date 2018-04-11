@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Page Design"
-permalink: /pagedesign/
 ---
 Page Design is used to declare clientlibs for complete page which you can use on both page level
 and template level.

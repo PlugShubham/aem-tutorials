@@ -1,7 +1,6 @@
 ---
 layout: post
 title:  "Fragments"
-permalink: /fragments/
 ---
 <b>Content Fragemnts</b><br>
 
