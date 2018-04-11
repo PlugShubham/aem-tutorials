@@ -16,7 +16,7 @@ For deconstructing creative design the steps are given below:<br>
 
 <b>Http Request</b>
 
-<img src="https://github.com/PlugShubham/aem-tutorials/blob/gh-pages/assets/img/request.png"/>
+<img src="{{ site.baseurl }}/assets/img/request.png"/>
 
 <br>
 <b>Wiki/sling - Content Resolution</b> content resolution is `/content/we-retail/language-masters/en`
