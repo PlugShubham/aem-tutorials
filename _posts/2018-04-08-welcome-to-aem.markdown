@@ -23,7 +23,7 @@ For deconstructing creative design the steps are given below:<br>
 <br>
 <b>Get Resource Type</b>
 
-![image tooltip here](/assets/img/resource.png)
+<img src="{{ site.baseurl }}/assets/img/resource.png"/>
 
 <br>
 <b>Script Locations</b> Search for resource type in apps folder. If it is not in apps folder then search in libs folder. In apps folder
@@ -34,7 +34,7 @@ For deconstructing creative design the steps are given below:<br>
 <br>
 <b>Script</b> In this case it is not there then search it in SuperType component.
 
-![image tooltip here](/assets/img/super.png)
+<img src="{{ site.baseurl }}/assets/img/super.png"/>
 
 <br>
 <b>Include Options</b> Every time request is sent, it first search in resourceType. If it is not present in resource type then
@@ -44,4 +44,4 @@ it will search in SuperType component.
 Note: apps folder got higher preference then libs in finding the script from resourceType`
 {% endhighlight %}
 
-[components]: https://www.google.com
+[components]: {{ site.baseurl }}/components
