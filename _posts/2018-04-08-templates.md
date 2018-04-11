@@ -26,7 +26,7 @@ content and other structure.<br>
 
 <b>Step 2</b>:Right-click the template folder (within your application), select Create, Create Template.
 
-![image tooltip here](/assets/img/step1.png)
+<img src="{{ site.baseurl }}/assets/img/step1.png"/>
 
 <br>
 <b>Step 3</b>:Enter the following information into the Create Template dialog box:<br>
@@ -37,11 +37,11 @@ content and other structure.<br>
 <b>Resource Type</b>: The component's path that is assigned to the template and copied to implementing pages. Enter /apps/learner/components/structure/contentpage.<br>
 <b>Ranking</b>: The order (ascending) in which this template will appear in relation to other templates. Setting this value to 1 ensures that the template appears first in the list.<br>
 
-![image tooltip here](/assets/img/step2.png)
+<img src="{{ site.baseurl }}/assets/img/step2.png"/>
 <br><br>
 <b>Step 4</b>:Add a path to Allowed Paths. Click on the plus sign and enter the following value: /content(/.*)?.
 <br><br>
-![image tooltip here](/assets/img/step3.png)
+<img src="{{ site.baseurl }}/assets/img/step3.png"/>
 <br><br>
 <b>Step 5</b>:Click Next for Allowed Parents.
 <br>
@@ -52,5 +52,5 @@ DONE!!!!!
 
 Click [Create contentpage component][Create contentpage component] 
 
-[Editable Template]:https://www.google.com
-[Create contentpage component]:https://www.google.com
+[Editable Template]:{{ site.baseurl }}/etemplates
+[Create contentpage component]:{{ site.baseurl }}/components

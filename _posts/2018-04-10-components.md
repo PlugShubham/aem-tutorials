@@ -95,7 +95,7 @@ ${logic.message}
 1.Create new node under tab1 with property cq:widgetCollection and name items.<br>
 2.Create another node inside items with property cq:widget and add below properties<br>
 
-![image tooltip here](/assets/img/comp1.png)<br>
+<img src="{{ site.baseurl }}/assets/img/comp1.png"/><br>
 
 <i>title.js</i>
 

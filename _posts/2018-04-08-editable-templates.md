@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Editable Templates"
+permalink: /etemplates/
 ---
 
 Editable templates allow authors to create components using drag and drop and from other compoents
@@ -11,7 +12,7 @@ These templates are stored in `conf` folder.<br>
 <b>Step 1</b>:Tools -> Configuration Browser -> Create<br>
 
 Select Editable Template checkbox and give relevant name to the it. Give learner. <br><br>
-![image tooltip here](/assets/img/estep1.png)
+<img src="{{ site.baseurl }}/assets/img/estep1.png"/>
 
 <br>
 <br>
@@ -22,7 +23,7 @@ You should see learner configuration that you have created in step1. Select that
 
 Drag and Drop the components and assets which you want to add on your template.<br>
 
-![image tooltip here](/assets/img/estep2.png)
+<img src="{{ site.baseurl }}/assets/img/estep2.png"/>
 
 <br><br>
 
@@ -34,11 +35,11 @@ Goto Sites and select site in which you want to use editable template. Go to
 properties and select advanced tab. Add the path of your editable template and save.
 To create page again select the site and click on create page.<br>
 
-![image tooltip here](/assets/img/estep3.png)
+<img src="{{ site.baseurl }}/assets/img/step3.png"/>
 
 <br><br>
 
-![image tooltip here](/assets/img/estep4.png)
+<img src="{{ site.baseurl }}/assets/img/step4.png"/>
 
 <br>
 

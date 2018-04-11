@@ -17,18 +17,18 @@ Note: For cq:design_dialog sling:resouceType - cq/gui/components/authoring/dialo
 <b>Creating Design Dialog Boxes</b><br>
 
 <b>Step 1</b><br><br>
-![image tooltip here](/assets/img/dd1.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/dd1.png"/><br><br>
 <b>Step 2</b><br><br>
-![image tooltip here](/assets/img/dd2.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/dd2.png"/><br><br>
 <b>Step 3</b><br><br>
-![image tooltip here](/assets/img/dd3.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/dd3.png"/><br><br>
 <b>Step 4</b><br><br>
-![image tooltip here](/assets/img/dd4.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/dd4.png"/><br><br>
 
 
 <b>Overlays and String Merger</b><br>
 
-![image tooltip here](/assets/img/overlay.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/overlay.png"/><br><br>
 
 <i>Example 1</i>
 
@@ -55,7 +55,7 @@ create new components and add the above path as super type
 
 <b>Core Components</b><br>
 
-![image tooltip here](/assets/img/core.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/core.png"/><br><br>
 
 <i>Example</i>
 

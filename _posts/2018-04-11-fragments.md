@@ -5,8 +5,8 @@ permalink: /fragments/
 ---
 <b>Content Fragemnts</b><br>
 
-![image tooltip here](/assets/img/f1.png)<br>
-![image tooltip here](/assets/img/f2.png)<br>
+<img src="{{ site.baseurl }}/assets/img/f1.png"/><br>
+<img src="{{ site.baseurl }}/assets/img/f2.png"/><br>
 
 Follow below steps to create Content Fragment: <br>
 
@@ -20,7 +20,7 @@ Assets -> create -> training folder -> en folder
 <b>Experience Fragemnts</b><br>
 Experience fragments consist of set of components which you can you anywhere on the page.
 
-![image tooltip here](/assets/img/e1.png)<br>
+<img src="{{ site.baseurl }}/assets/img/f3.png"/><br>
 
 Follow below steps to create Experience Fragment: <br>
 

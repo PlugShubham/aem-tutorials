@@ -3,7 +3,7 @@ layout: post
 title:  "Clientlibs"
 permalink: /clientlibs/
 ---
-![image tooltip here](/assets/img/cl1.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/cl1.png"/><br><br>
 
 <b>Steps To Create Clientlibs</b><br>
 
@@ -187,4 +187,4 @@ function showSlides() {
 
 <b>ClientLibs Properties</b><br>
 
-![image tooltip here](/assets/img/cl2.png)<br><br>
+<img src="{{ site.baseurl }}/assets/img/cl2.png"/><br><br>
